@@ -77,7 +77,6 @@ header {
   background-color: rgba(20, 30, 13, 0.7);
 }
 nav a:hover {
-  background-color: black;
   color: #d9c2a3;
 }
 
@@ -132,4 +131,8 @@ footer p a {
   color: #fcfbfb;
   padding: 10px;
   font-size: 15px;
+}
+
+#content nav a {
+  padding: 30px;
 }
